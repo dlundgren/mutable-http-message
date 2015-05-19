@@ -1,5 +1,5 @@
 {
-  "name": "dlundgren/mutable-http-message",
+  "name": "muhm/http-message",
   "description": "Mutable PSR-7 implementation",
   "keywords": [
     "psr7",
